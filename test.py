@@ -56,17 +56,18 @@
 #make a calculator by using Try AND Except Block
 
 
-a=float(input("Enter the first number"))
-b=float(input("Enter the sdcond number "))
-c=input("Choose the operator such as + - * / \n : ")
-try:
-    if c=='+':
-        print(a+b)
-    if c=='-':
-        print(a-b)
-    if c=='*':
-        print(a*b)
-    if c=='/':
-        print(a/b)
-except ZeroDivisionError as e :
-    print(e)
+# a=float(input("Enter the first number"))
+# b=float(input("Enter the sdcond number "))
+# c=input("Choose the operator such as + - * / \n : ")
+# try:
+#     if c=='+':
+#         print(a+b)
+#     if c=='-':
+#         print(a-b)
+#     if c=='*':
+#         print(a*b)
+#     if c=='/':
+#         print(a/b)
+# except ZeroDivisionError as e :
+#     print(e)
+
